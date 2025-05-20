@@ -1,0 +1,38 @@
+[
+  {
+    "id": "0",
+    "name": "krem\u00f3wka",
+    "price": 21.37,
+    "stock": 419
+  },
+  {
+    "id": "1",
+    "name": "macbook",
+    "price": 7000,
+    "stock": 6
+  },
+  {
+    "id": "2",
+    "name": "biurko",
+    "price": 1700,
+    "stock": 5
+  },
+  {
+    "id": "3",
+    "name": "mcdonald",
+    "price": 70,
+    "stock": 1000
+  },
+  {
+    "id": "4",
+    "name": "myszka",
+    "price": 80,
+    "stock": 100
+  },
+  {
+    "id": "5",
+    "name": "coke",
+    "price": 5.5,
+    "stock": 5000
+  }
+]
